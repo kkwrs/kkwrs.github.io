@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://example.com/">
+  <a href="https://images.pexels.com/photos/15818869/pexels-photo-15818869/free-photo-of-person-riding-extremely-packed-bike.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
     <img src="https://via.placeholder.com/72" alt="KK Wetlands Newsletter" width=72 height=72>
   </a>
 
