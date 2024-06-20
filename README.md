@@ -1,33 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>KK Wetland Newsletter</title>
-  <style>
-    .center {
-      text-align: center;
-    }
-    .logo {
-      width: 72px;
-      height: 72px;
-    }
-  </style>
-</head>
-<body>
-<div class="center">
+<p align="center">
   <a href="https://example.com/">
-    <img src="https://kkwrs.github.io/SWCS%20Logo.jpg" alt="KK Wetlands Newsletter" class="logo">
+    <img src="https://via.placeholder.com/72" alt="KK Wetlands Newsletter" width=72 height=72>
   </a>
-  <h3>KK Wetland Newsletter</h3>
-  <p>
+  <h3 align="center">KK Wetland Newsletter</h3>
+  <p align="center">
     This page is dedicated for you to look at what have been done at our centre in the past 
     <br>
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
     ·
     <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
   </p>
-</div>
+</p>
 
 
 ## Table of contents
