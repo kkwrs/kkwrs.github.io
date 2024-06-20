@@ -17,14 +17,15 @@
 
 ## Table of contents
 
-- [May 2024](#quick-start)
-- [Status](#status)
-- [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Contributing](#contributing)
-- [Creators](#creators)
-- [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
+- [May 2023](#quick-start)
+- [June 2023](#status)
+- [July - October 2023](#whats-included)
+- [November - December 2023](#bugs-and-feature-requests)
+- [January 2024](#contributing)
+- [Feburary 2024](#creators)
+- [March 2024](#thanks)
+- [April 2024](#copyright-and-license)
+- [May 2024](#copyright-and-license)
 
 
 ## Quick start
