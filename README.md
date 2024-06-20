@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img src="[https://github.com/kkwrs/kkwrs.github.io/blob/main/SWCS%20Logo.jpg]" alt="SWCS Logo.jpeg" width=2200 height=1122>
+    <img src="[(https://github.com/kkwrs/kkwrs.github.io/blob/main/SWCS%20Logo.jpg)]" alt="SWCS Logo.jpeg" width=2200 height=1122>
   </a>
 
   <h3 align="center">KK Wetland Newsletter</h3>
