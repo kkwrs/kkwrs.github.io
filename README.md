@@ -3,7 +3,7 @@
     <img src="https://via.placeholder.com/72" alt="KK Wetlands Newsletter" width=72 height=72>
   </a>
 
-  <h3 align="center">Logo</h3>
+  <h3 align="center">KK Wetland Newsletter</h3>
 
   <p align="center">
     Short description
