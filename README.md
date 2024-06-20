@@ -8,7 +8,7 @@
     <br>
     <a href="https://reponame/issues/new?template=bug.md](http://www.sabahwetlands.org/kkw/">Home Page</a>
     ·
-    <a href="[https://reponame/issues/new?template=feature.md&labels=feature](https://docs.google.com/forms/d/e/1FAIpQLSfwh_8bEEIO55XHUFsqmD3xTGAMCSKkvk-Nr_hicmYvo6lrmw/viewform?usp=send_form">Let us know</a>
+    <a href="https://reponame/issues/new?template=feature.md&labels=feature](https://docs.google.com/forms/d/e/1FAIpQLSfwh_8bEEIO55XHUFsqmD3xTGAMCSKkvk-Nr_hicmYvo6lrmw/viewform?usp=send_form">Let us know</a>
   </p>
 </p>
 
