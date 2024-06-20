@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img src="[https://www.sabahwetlands.org/kkw/wp-content/uploads/2017/09/swcs-logo.gif])" alt="KK Wetlands Newsletter" width=72 height=72>
+    <img src="[SWCS Logo.jpg)" alt="KK Wetlands Newsletter" width=72 height=72>
   </a>
 
   <h3 align="center">KK Wetland Newsletter</h3>
