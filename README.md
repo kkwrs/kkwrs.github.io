@@ -6,7 +6,7 @@
   <h3 align="center">KK Wetland Newsletter</h3>
 
   <p align="center">
-    Short description
+    This page is dedicated for you to look at what have been done at our centre in the past 
     <br>
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
     ·
